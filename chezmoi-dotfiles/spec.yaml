@@ -1,0 +1,45 @@
+schemaVersion: "1"
+kind: mixin
+name: chezmoi-dotfiles
+displayName: Chezmoi dotfiles
+description: Apply sandbox-safe dotfiles through chezmoi
+
+network:
+  allowedDomains:
+    - "get.chezmoi.io:443"
+    - "github.com:443"
+    - "api.github.com:443"
+    - "objects.githubusercontent.com:443"
+    - "raw.githubusercontent.com:443"
+
+environment:
+  variables:
+    # https example: https://github.com/YOUR-USERNAME/dotfiles.git - requires setting github secret `gh auth token | sbx secret set -g github`
+    # ssh example: git@github.com:YOUR-USERNAME/dotfiles.git - not working as commands.install does not have SSH Agent forward
+    # https://github.com/docker/sbx-releases/issues/299
+    CHEZMOI_REPO: "https://github.com/pleiris/dotfiles.git"
+    CHEZMOI_INSTALL_DIR: "/home/agent/.local/bin"
+
+commands:
+  install:
+    - command: |
+        mkdir -p "$CHEZMOI_INSTALL_DIR"
+        if [ ! -x "$CHEZMOI_INSTALL_DIR/chezmoi" ]; then
+          sh -c "$(curl -fsLS https://get.chezmoi.io)" -- \
+            -b "$CHEZMOI_INSTALL_DIR"
+        fi
+        "$CHEZMOI_INSTALL_DIR/chezmoi" init \
+          --apply \
+          --no-tty \
+          --promptDefaults \
+          "$CHEZMOI_REPO"
+      user: "1000"
+      description: Install chezmoi and initialize dotfiles
+
+  startup:
+    - command:
+        - $CHEZMOI_INSTALL_DIR/chezmoi
+        - update
+        - --no-tty
+      user: "1000"
+      description: Update chezmoi dotfiles
