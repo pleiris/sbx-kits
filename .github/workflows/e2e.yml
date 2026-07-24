@@ -1,0 +1,139 @@
+name: Kit E2E
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: sbx build channel
+        required: true
+        default: release
+        type: choice
+        options:
+          - release
+          - nightly
+
+permissions:
+  contents: read
+
+jobs:
+  detect-kits:
+    if: github.event_name == 'workflow_dispatch' || vars.RUN_E2E == 'true'
+    runs-on: ubuntu-latest
+    outputs:
+      kits: ${{ steps.collect.outputs.kits }}
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - id: collect
+        name: Collect kit directories
+        run: |
+          kits=$(for spec in */spec.yaml */spec.yml; do
+            [ -f "$spec" ] && dirname "$spec"
+          done | sort -u | jq -R . | jq -sc .)
+          if [ "$kits" = "[]" ]; then
+            echo "No kits found" >&2
+            exit 1
+          fi
+          echo "kits=$kits" >> "$GITHUB_OUTPUT"
+
+  test-kit-e2e:
+    needs: detect-kits
+    strategy:
+      fail-fast: false
+      matrix:
+        kit: ${{ fromJSON(needs.detect-kits.outputs.kits) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      APP_NAME: sbx-kits-contrib-tck
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+
+      - uses: actions/setup-go@4a3601121dd01d1626a1e23e37211e3254c1c06c # v6.4.0
+        with:
+          go-version-file: go.mod
+          cache: true
+
+      - name: Enable KVM access
+        run: |
+          sudo chmod 666 /dev/kvm
+          sudo sysctl -w kernel.apparmor_restrict_unprivileged_userns=0
+
+      - name: Download sbx
+        env:
+          CHANNEL: ${{ inputs.channel || 'release' }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$CHANNEL" = "nightly" ]; then
+            version=nightly
+          else
+            version=$(gh api repos/docker/sbx-releases/releases/latest --jq .tag_name)
+          fi
+          curl -fsSL \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://github.com/docker/sbx-releases/releases/download/$version/DockerSandboxes-linux.tar.gz" \
+            -o /tmp/DockerSandboxes-linux.tar.gz
+          tar xzf /tmp/DockerSandboxes-linux.tar.gz -C /tmp
+          sudo PREFIX="$HOME/.docker/sbx" /tmp/docker-sbx/install.sh
+          echo "$HOME/.docker/sbx/bin" >> "$GITHUB_PATH"
+
+      - name: Start Secret Service
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq gnome-keyring dbus
+          mkdir -p "$HOME/.local/share/keyrings"
+          cat > "$HOME/.local/share/keyrings/login.keyring" <<'KEYRING'
+          [keyring]
+          display-name=login
+          ctime=1750965549
+          mtime=0
+          lock-on-idle=false
+          lock-after=false
+          KEYRING
+          DBUS_SESSION_BUS_ADDRESS=$(dbus-daemon --session --print-address --fork)
+          echo "DBUS_SESSION_BUS_ADDRESS=$DBUS_SESSION_BUS_ADDRESS" >> "$GITHUB_ENV"
+          export DBUS_SESSION_BUS_ADDRESS
+          gnome-keyring-daemon --start --components=secrets >/dev/null
+          for _ in $(seq 1 50); do
+            if gdbus call --session \
+                --dest org.freedesktop.DBus \
+                --object-path /org/freedesktop/DBus \
+                --method org.freedesktop.DBus.GetNameOwner \
+                org.freedesktop.secrets >/dev/null 2>&1; then
+              exit 0
+            fi
+            sleep 0.1
+          done
+          echo "Secret Service did not start" >&2
+          exit 1
+
+      - name: Sign in to Docker Hub
+        env:
+          DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+          DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
+        run: |
+          if [ -z "$DOCKERHUB_USERNAME" ] || [ -z "$DOCKERHUB_TOKEN" ]; then
+            echo "DOCKERHUB_USERNAME and DOCKERHUB_TOKEN are required" >&2
+            exit 1
+          fi
+          printf '%s' "$DOCKERHUB_TOKEN" | sbx --app-name "$APP_NAME" login \
+            --username "$DOCKERHUB_USERNAME" \
+            --password-stdin
+
+      - name: Configure GitHub access
+        env:
+          SBX_GITHUB_TOKEN: ${{ secrets.SBX_GITHUB_TOKEN }}
+        run: |
+          if [ -n "$SBX_GITHUB_TOKEN" ]; then
+            printf '%s' "$SBX_GITHUB_TOKEN" | \
+              sbx --app-name "$APP_NAME" secret set -g github
+          fi
+
+      - name: Test ${{ matrix.kit }}
+        run: ./scripts/test-kit-e2e.sh "${{ matrix.kit }}"
+
+      - name: Sign out of Docker Hub
+        if: always()
+        run: sbx --app-name "$APP_NAME" logout --yes || true
