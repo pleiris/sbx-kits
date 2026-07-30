@@ -1,0 +1,221 @@
+- generic [ref=f23e3]:
+  - banner [ref=f23e4]:
+    - generic [ref=f23e5]:
+      - link [ref=f23e6] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "9GAG" [ref=f23e7] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f23e8]:
+        - list [ref=f23e9]:
+          - listitem [ref=f23e10]:
+            - link "🔀 Shuffle" [ref=f23e11] [cursor=pointer]:
+              - /url: https://9gag.com/shuffle
+          - listitem [ref=f23e12]:
+            - link "📱 Get App" [ref=f23e13] [cursor=pointer]:
+              - /url: https://about.9gag.com/app
+          - listitem [ref=f23e14]:
+            - link "🏴‍☠️ Memeland" [ref=f23e15] [cursor=pointer]:
+              - /url: https://www.memeland.com/
+          - listitem [ref=f23e16]:
+            - link "🛒 Shop" [ref=f23e17] [cursor=pointer]:
+              - /url: https://shop.9gag.com/
+          - listitem [ref=f23e18]:
+            - link "💣NSFW" [ref=f23e19] [cursor=pointer]:
+              - /url: https://9gag.com/interest/girlnsfw
+          - listitem [ref=f23e20]:
+            - link "📍Local" [ref=f23e21] [cursor=pointer]:
+              - /url: https://9gag.com/local/
+      - generic [ref=f23e22]:
+        - link "Search" [ref=f23e24] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Sign Up/Log In" [ref=f23e26] [cursor=pointer]:
+          - /url: /signup
+        - generic [ref=f23e27]:
+          - link [ref=f23e29] [cursor=pointer]:
+            - /url: javascript:void(0)
+          - link [ref=f23e35] [cursor=pointer]:
+            - /url: /submit
+  - generic [ref=f23e39]:
+    - generic [ref=f23e40]:
+      - generic [ref=f23e42]:
+        - heading "New to 9GAG?" [level=2] [ref=f23e43]
+        - paragraph [ref=f23e44]: Sign up now to see more content!
+        - link "Sign up" [ref=f23e45] [cursor=pointer]:
+          - /url: /signup
+      - list [ref=f23e47]:
+        - listitem [ref=f23e48]:
+          - link "Home" [ref=f23e49] [cursor=pointer]:
+            - /url: /home
+        - listitem [ref=f23e55]:
+          - link "Top" [ref=f23e56] [cursor=pointer]:
+            - /url: /top
+        - listitem [ref=f23e62]:
+          - link "Trending" [ref=f23e63] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=f23e69]:
+          - link "Fresh" [ref=f23e70] [cursor=pointer]:
+            - /url: /fresh
+        - listitem [ref=f23e76]:
+          - link "News" [ref=f23e77] [cursor=pointer]:
+            - /url: /news
+        - listitem [ref=f23e85]:
+          - link "Ask 9GAG" [ref=f23e86] [cursor=pointer]:
+            - /url: /forum
+      - generic [ref=f23e92]:
+        - generic [ref=f23e93]: Interests
+        - list [ref=f23e95]:
+          - listitem [ref=f23e96]:
+            - link "Old Meme" [ref=f23e97] [cursor=pointer]:
+              - /url: https://9gag.com/interest/oldmeme
+          - listitem [ref=f23e105]:
+            - link "Anime & Manga" [ref=f23e106] [cursor=pointer]:
+              - /url: https://9gag.com/interest/anime
+          - listitem [ref=f23e114]:
+            - link "Latest News" [ref=f23e115] [cursor=pointer]:
+              - /url: https://9gag.com/interest/news
+          - listitem [ref=f23e123]:
+            - link "Cosplay" [ref=f23e124] [cursor=pointer]:
+              - /url: https://9gag.com/interest/cosplay
+          - listitem [ref=f23e132]:
+            - link "Politics" [ref=f23e133] [cursor=pointer]:
+              - /url: https://9gag.com/interest/politics
+          - listitem [ref=f23e141]:
+            - link "Humor" [ref=f23e142] [cursor=pointer]:
+              - /url: https://9gag.com/interest/humor
+          - listitem [ref=f23e150]:
+            - link "Memes" [ref=f23e151] [cursor=pointer]:
+              - /url: https://9gag.com/interest/memes
+          - listitem [ref=f23e159]:
+            - link "Gaming" [ref=f23e160] [cursor=pointer]:
+              - /url: https://9gag.com/interest/games
+          - listitem [ref=f23e168]:
+            - link "WTF" [ref=f23e169] [cursor=pointer]:
+              - /url: https://9gag.com/interest/wtf
+          - listitem [ref=f23e177]:
+            - link "Relationship & Dating" [ref=f23e178] [cursor=pointer]:
+              - /url: https://9gag.com/interest/relationship
+          - listitem [ref=f23e186]:
+            - link "Music" [ref=f23e187] [cursor=pointer]:
+              - /url: https://9gag.com/interest/music
+          - listitem [ref=f23e195]:
+            - link "Motor Vehicles" [ref=f23e196] [cursor=pointer]:
+              - /url: https://9gag.com/interest/motorvehicles
+          - listitem [ref=f23e204]:
+            - link "Animals & Pets" [ref=f23e205] [cursor=pointer]:
+              - /url: https://9gag.com/interest/animals
+          - listitem [ref=f23e213]:
+            - link "Science & Tech" [ref=f23e214] [cursor=pointer]:
+              - /url: https://9gag.com/interest/science
+          - listitem [ref=f23e222]:
+            - link "Comic" [ref=f23e223] [cursor=pointer]:
+              - /url: https://9gag.com/interest/comic
+          - listitem [ref=f23e231]:
+            - link "Wholesome" [ref=f23e232] [cursor=pointer]:
+              - /url: https://9gag.com/interest/wholesome
+          - listitem [ref=f23e240]:
+            - link "Sports" [ref=f23e241] [cursor=pointer]:
+              - /url: https://9gag.com/interest/sports
+          - listitem [ref=f23e249]:
+            - link "Movies & TV" [ref=f23e250] [cursor=pointer]:
+              - /url: https://9gag.com/interest/movies
+          - listitem [ref=f23e258]:
+            - link "Cat" [ref=f23e259] [cursor=pointer]:
+              - /url: https://9gag.com/interest/cats
+          - listitem [ref=f23e267]:
+            - link "Food & Drinks" [ref=f23e268] [cursor=pointer]:
+              - /url: https://9gag.com/interest/food
+          - listitem [ref=f23e276]:
+            - link "Lifestyle" [ref=f23e277] [cursor=pointer]:
+              - /url: https://9gag.com/interest/lifestyle
+          - listitem [ref=f23e285]:
+            - link "Superhero" [ref=f23e286] [cursor=pointer]:
+              - /url: https://9gag.com/interest/superhero
+          - listitem [ref=f23e294]:
+            - link "Crypto" [ref=f23e295] [cursor=pointer]:
+              - /url: https://9gag.com/interest/crypto
+          - listitem [ref=f23e303]:
+            - link "Random" [ref=f23e304] [cursor=pointer]:
+              - /url: https://9gag.com/interest/random
+          - listitem [ref=f23e312]:
+            - link "Woah" [ref=f23e313] [cursor=pointer]:
+              - /url: https://9gag.com/interest/woah
+    - generic [ref=f23e322]:
+      - article [ref=f23e324]:
+        - generic [ref=f23e325]:
+          - generic [ref=f23e326]:
+            - generic [ref=f23e329]:
+              - link [ref=f23e330] [cursor=pointer]:
+                - /url: https://9gag.com/interest/woah
+                - img "Woah" [ref=f23e331]
+              - generic [ref=f23e332]:
+                - link "Woah" [ref=f23e333] [cursor=pointer]:
+                  - /url: https://9gag.com/interest/woah
+                - generic [ref=f23e334]:
+                  - link "logicrak" [ref=f23e335] [cursor=pointer]:
+                    - /url: https://9gag.com/u/logicrak
+                  - generic [ref=f23e340]: 23h
+            - link [ref=f23e343] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - generic [ref=f23e347]:
+            - generic [ref=f23e348]: Cheered by
+            - generic [ref=f23e349]:
+              - link [ref=f23e350] [cursor=pointer]:
+                - /url: https://9gag.com/u/s4w5z4ox
+              - link [ref=f23e352] [cursor=pointer]:
+                - /url: https://9gag.com/u/wildmanjordan
+              - link [ref=f23e354] [cursor=pointer]:
+                - /url: https://9gag.com/u/aleksischmidt
+            - generic [ref=f23e356]: "+16"
+          - heading "Save and never try it" [level=1] [ref=f23e357]
+        - link "0:29" [ref=f23e360]:
+          - /url: javascript:void(0)
+          - paragraph [ref=f23e364] [cursor=pointer]: 0:29
+        - generic [ref=f23e365]:
+          - link "awesome" [ref=f23e366] [cursor=pointer]:
+            - /url: /tag/awesome?ref=post-tag
+          - link "origami" [ref=f23e367] [cursor=pointer]:
+            - /url: /tag/origami?ref=post-tag
+          - link "paper" [ref=f23e368] [cursor=pointer]:
+            - /url: /tag/paper?ref=post-tag
+          - link "plane" [ref=f23e369] [cursor=pointer]:
+            - /url: /tag/plane?ref=post-tag
+          - link "tutorial" [ref=f23e370] [cursor=pointer]:
+            - /url: /tag/tutorial?ref=post-tag
+        - generic [ref=f23e371]:
+          - generic [ref=f23e372]:
+            - list [ref=f23e373]:
+              - listitem [ref=f23e374]:
+                - link [ref=f23e375] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=f23e379]: 7.4K
+              - listitem [ref=f23e380]:
+                - link [ref=f23e381] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=f23e385]: "267"
+            - list [ref=f23e386]:
+              - listitem [ref=f23e387] [cursor=pointer]:
+                - link [ref=f23e388]:
+                  - /url: javascript:void(0);
+                - generic [ref=f23e392]: Save
+          - generic [ref=f23e393]:
+            - link [ref=f23e394] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - link [ref=f23e398] [cursor=pointer]:
+              - /url: javascript:void(0);
+            - generic [ref=f23e402]: Share
+      - generic [ref=f23e413]:
+        - generic [ref=f23e414] [cursor=pointer]:
+          - heading "Comments" [level=2] [ref=f23e415]
+          - generic [ref=f23e416]: "116"
+        - heading "Related" [level=2] [ref=f23e418] [cursor=pointer]
+      - generic [ref=f23e420]:
+        - generic [ref=f23e421]:
+          - generic [ref=f23e422]: Hot comments
+          - generic [ref=f23e429]:
+            - text: Remember to keep comments respectful and to follow our
+            - link "Community Guidelines" [ref=f23e430] [cursor=pointer]:
+              - /url: /rules
+            - text: .
+        - textbox "Leave a comment..." [ref=f23e440]
+  - link "Back to top" [ref=f23e452] [cursor=pointer]:
+    - /url: "javascript: void(0);"

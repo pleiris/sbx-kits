@@ -1,0 +1,444 @@
+[     129ms] [ERROR] [JavaScript Error: "AbortError: The fetching process for the media resource was aborted by the user agent at the user's request."] @ :0
+[     158ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://hb-9gag.opentrade.ascendeum.com/asc_prebid.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     174ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://btloader.com/tag?o=5741299960381440&upapi=true”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     175ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://www.googletagmanager.com/gtag/js?id=G-YY84CFQCF5”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 452}] @ https://9gag.com/gag/a9y9DKj#comment:452
+[     176ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.viously.com/js/sdk/boot.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     176ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.confiant-integrations.net/0RqV_ZzmEuOOPHd_QOGt_iuFLLE/gpt_and_prebid/config.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     176ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://ats-wrapper.privacymanager.io/ats-modules/3fe2ce24-2cac-487a-900a-0c8337a257fe/ats.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     176ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://metrics.rapidedge.io/gamera.js?ltv=1&audience=1&tpcs=1&partner=9gag&wait=1”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     177ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://sdk.privacy-center.org/b72f9f85-6689-4889-b73a-75a02a5b3f3d/loader.js?target_type=notice&target=bfXVJxt6”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     183ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     197ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://gresrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     198ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://securepubads.g.doubleclick.net/tag/js/gpt.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 435}] @ https://9gag.com/gag/a9y9DKj#comment:435
+[     206ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[     206ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[     289ms] [ERROR] [vuex] unknown getter: app/SHOW_OPEN_APP_SHEET @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:1
+[     351ms] [LOG] Restored saved stream heights: 0 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[     359ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_1 data-ay-manager-id=jsid-ad-container-sidebar_1 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[     360ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_2 data-ay-manager-id=jsid-ad-container-sidebar_2 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[     497ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     498ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v1/cacheable/app.json?id=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[     498ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v1/cacheable/app.json?id=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[     546ms] [WARNING] [JavaScript Warning: "All candidate resources failed to load. Media load paused." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[     546ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[     562ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     564ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     660ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[     673ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://recommend.9gag.com/interact/event/?ip=1&_=1785420059322. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[     706ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    1118ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dzvgv213q3sp.cloudfront.net/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    1175ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[    1176ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[    1922ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    3537ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    3547ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://error-report.com/report?type=loader_light&url=aHR0cHM6Ly85Z2FnLmNvbS9nYWcvYTl5OURLaiNjb21tZW50&error=RmFpbGVkIHRvIGxvYWQgd2Vic2l0ZSBwcm9wZXJseSBzaW5jZSBodG1sLWxvYWQuY29tIGlzIGJsb2NrZWQuIFBsZWFzZSBhbGxvdyBodG1sLWxvYWQuY29t&request_id=upe32ndj3fc. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[    7103ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[    7136ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dtasrvr.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    7145ms] [WARNING] [JavaScript Warning: "This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”." {file: "about:blank" line: 0}] @ about:blank:0
+[    7146ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[    7152ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[    7152ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[    7153ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://srvgl.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    7154ms] TypeError: can't access property "comments", t is null
+    at 30070/fetchComments/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33667)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at fetchComments (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33313)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 30070/toggleListView/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34909)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at toggleListView (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34505)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at setType (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:31465)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 84157/I/</n[r] (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:261967)
+    at init (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69272)
+    at async*created (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69391)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at a (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25128)
+    at Ae (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:35820)
+    at 66252/pn/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:64817)
+    at pn (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:65190)
+    at 66252/ot/V/c< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47468)
+    at 66252/ot/V/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47474)
+    at V (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47493)
+    at Z (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:45451)
+    at x (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:42395)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:48490)
+    at run (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:16263)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at T (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:26529)
+    at promise callback*k (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25983)
+    at _ (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25949)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:49164)
+    at O (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:17585)
+[    7161ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dclsrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    7210ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[    7237ms] TypeError: can't access property "innerHTML", m.body is null
+    at n/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2533)
+    at r/a< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2408)
+    at b/r< (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2606)
+    at setInterval handler*b (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2631)
+    at r (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2433)
+    at n (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2501)
+    at async*anonymous/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4639)
+    at anonymous (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4661)
+    at onerror/</< (https://9gag.com/gag/a9y9DKj#comment:1:237)
+    at onerror/< (https://9gag.com/gag/a9y9DKj#comment:1:254)
+    at onerror (https://9gag.com/gag/a9y9DKj#comment:1:318)
+[    7238ms] [WARNING] [JavaScript Warning: "This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features!" {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[    7240ms] AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+[    8111ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[    8129ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    8136ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    8146ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    9139ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[    9217ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    9219ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[    9219ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   10102ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-logo.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   10103ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   10103ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   10103ms] [WARNING] [JavaScript Warning: "The resource at “https://img-9gag-fun.9cache.com/photo/a9y9DKj_700bwp.webp” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   16236ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   16246ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16247ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16247ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16466ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://hb-9gag.opentrade.ascendeum.com/asc_prebid.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16467ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://metrics.rapidedge.io/gamera.js?ltv=1&audience=1&tpcs=1&partner=9gag&wait=1”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16467ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.confiant-integrations.net/0RqV_ZzmEuOOPHd_QOGt_iuFLLE/gpt_and_prebid/config.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16467ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://www.googletagmanager.com/gtag/js?id=G-YY84CFQCF5”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 452}] @ https://9gag.com/gag/a9y9DKj#comment:452
+[   16487ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.viously.com/js/sdk/boot.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://btloader.com/tag?o=5741299960381440&upapi=true”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://ats-wrapper.privacymanager.io/ats-modules/3fe2ce24-2cac-487a-900a-0c8337a257fe/ats.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://sdk.privacy-center.org/b72f9f85-6689-4889-b73a-75a02a5b3f3d/loader.js?target_type=notice&target=bfXVJxt6”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://srvgl.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16488ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://securepubads.g.doubleclick.net/tag/js/gpt.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 435}] @ https://9gag.com/gag/a9y9DKj#comment:435
+[   16500ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   16501ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   16576ms] [ERROR] [vuex] unknown getter: app/SHOW_OPEN_APP_SHEET @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:1
+[   16637ms] [LOG] Restored saved stream heights: 0 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   16645ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_1 data-ay-manager-id=jsid-ad-container-sidebar_1 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   16645ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_2 data-ay-manager-id=jsid-ad-container-sidebar_2 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   16715ms] [WARNING] [JavaScript Warning: "This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”." {file: "about:blank" line: 0}] @ about:blank:0
+[   16724ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   16726ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   16761ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16783ms] [WARNING] [JavaScript Warning: "All candidate resources failed to load. Media load paused." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   16784ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   16821ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16833ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16860ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   16861ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://recommend.9gag.com/interact/event/?ip=1&_=1785420075494. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   16967ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   17374ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dzvgv213q3sp.cloudfront.net/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   17514ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   17515ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   18189ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   19807ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   19816ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://error-report.com/report?type=loader_light&url=aHR0cHM6Ly85Z2FnLmNvbS9nYWcvYTl5OURLaiNjb21tZW50&error=RmFpbGVkIHRvIGxvYWQgd2Vic2l0ZSBwcm9wZXJseSBzaW5jZSBodG1sLWxvYWQuY29tIGlzIGJsb2NrZWQuIFBsZWFzZSBhbGxvdyBodG1sLWxvYWQuY29t&request_id=kr544s3f71. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   23399ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   23411ms] TypeError: can't access property "comments", t is null
+    at 30070/fetchComments/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33667)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at fetchComments (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33313)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 30070/toggleListView/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34909)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at toggleListView (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34505)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at setType (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:31465)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 84157/I/</n[r] (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:261967)
+    at init (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69272)
+    at async*created (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69391)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at a (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25128)
+    at Ae (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:35820)
+    at 66252/pn/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:64817)
+    at pn (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:65190)
+    at 66252/ot/V/c< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47468)
+    at 66252/ot/V/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47474)
+    at V (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47493)
+    at Z (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:45451)
+    at x (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:42395)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:48490)
+    at run (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:16263)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at T (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:26529)
+    at promise callback*k (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25983)
+    at _ (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25949)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:49164)
+    at O (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:17585)
+[   23414ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dtasrvr.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   23429ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dclsrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   23441ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://gresrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   23504ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   23506ms] TypeError: can't access property "innerHTML", m.body is null
+    at n/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2533)
+    at r/a< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2408)
+    at b/r< (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2606)
+    at setInterval handler*b (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2631)
+    at r (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2433)
+    at n (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2501)
+    at async*anonymous/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4639)
+    at anonymous (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4661)
+    at onerror/</< (https://9gag.com/gag/a9y9DKj#comment:1:237)
+    at onerror/< (https://9gag.com/gag/a9y9DKj#comment:1:254)
+    at onerror (https://9gag.com/gag/a9y9DKj#comment:1:318)
+[   23508ms] AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+[   23522ms] [WARNING] [JavaScript Warning: "This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features!" {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   24401ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   24414ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   24415ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   24422ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   25414ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   25422ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   25425ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   25436ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   26397ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-logo.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   26397ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   26397ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   26397ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz-small.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   26398ms] [WARNING] [JavaScript Warning: "The resource at “https://img-9gag-fun.9cache.com/photo/a9y9DKj_700bwp.webp” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   26425ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   26431ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   26433ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   26448ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41777ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   41787ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41787ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41788ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41908ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://hb-9gag.opentrade.ascendeum.com/asc_prebid.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41909ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://metrics.rapidedge.io/gamera.js?ltv=1&audience=1&tpcs=1&partner=9gag&wait=1”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41910ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.confiant-integrations.net/0RqV_ZzmEuOOPHd_QOGt_iuFLLE/gpt_and_prebid/config.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41920ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://www.googletagmanager.com/gtag/js?id=G-YY84CFQCF5”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 452}] @ https://9gag.com/gag/a9y9DKj#comment:452
+[   41921ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://btloader.com/tag?o=5741299960381440&upapi=true”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41921ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.viously.com/js/sdk/boot.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41921ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://ats-wrapper.privacymanager.io/ats-modules/3fe2ce24-2cac-487a-900a-0c8337a257fe/ats.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   41992ms] [ERROR] [vuex] unknown getter: app/SHOW_OPEN_APP_SHEET @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:1
+[   42046ms] [LOG] Restored saved stream heights: 0 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   42053ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_1 data-ay-manager-id=jsid-ad-container-sidebar_1 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   42054ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_2 data-ay-manager-id=jsid-ad-container-sidebar_2 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   42085ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://sdk.privacy-center.org/b72f9f85-6689-4889-b73a-75a02a5b3f3d/loader.js?target_type=notice&target=bfXVJxt6”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42085ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://gresrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42085ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42092ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://securepubads.g.doubleclick.net/tag/js/gpt.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 435}] @ https://9gag.com/gag/a9y9DKj#comment:435
+[   42093ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42093ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42097ms] [WARNING] [JavaScript Warning: "This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”." {file: "about:blank" line: 0}] @ about:blank:0
+[   42104ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42106ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42154ms] [WARNING] [JavaScript Warning: "All candidate resources failed to load. Media load paused." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   42160ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   42180ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42181ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42181ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42187ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42201ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://recommend.9gag.com/interact/event/?ip=1&_=1785420100849. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42389ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42815ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dzvgv213q3sp.cloudfront.net/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   42998ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   42999ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   43627ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   45244ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   45255ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://error-report.com/report?type=loader_light&url=aHR0cHM6Ly85Z2FnLmNvbS9nYWcvYTl5OURLaiNjb21tZW50&error=RmFpbGVkIHRvIGxvYWQgd2Vic2l0ZSBwcm9wZXJseSBzaW5jZSBodG1sLWxvYWQuY29tIGlzIGJsb2NrZWQuIFBsZWFzZSBhbGxvdyBodG1sLWxvYWQuY29t&request_id=tdn1stq4kq. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   48839ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   48847ms] TypeError: can't access property "comments", t is null
+    at 30070/fetchComments/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33667)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at fetchComments (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33313)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 30070/toggleListView/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34909)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at toggleListView (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34505)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at setType (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:31465)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 84157/I/</n[r] (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:261967)
+    at init (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69272)
+    at async*created (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69391)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at a (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25128)
+    at Ae (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:35820)
+    at 66252/pn/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:64817)
+    at pn (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:65190)
+    at 66252/ot/V/c< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47468)
+    at 66252/ot/V/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47474)
+    at V (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47493)
+    at Z (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:45451)
+    at x (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:42395)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:48490)
+    at run (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:16263)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at T (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:26529)
+    at promise callback*k (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25983)
+    at _ (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25949)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:49164)
+    at O (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:17585)
+[   48854ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://srvgl.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   48865ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dclsrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   48877ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dtasrvr.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   48944ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   48945ms] TypeError: can't access property "innerHTML", m.body is null
+    at n/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2533)
+    at r/a< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2408)
+    at b/r< (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2606)
+    at setInterval handler*b (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2631)
+    at r (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2433)
+    at n (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2501)
+    at async*anonymous/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4639)
+    at anonymous (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4661)
+    at onerror/</< (https://9gag.com/gag/a9y9DKj#comment:1:237)
+    at onerror/< (https://9gag.com/gag/a9y9DKj#comment:1:254)
+    at onerror (https://9gag.com/gag/a9y9DKj#comment:1:318)
+[   48947ms] AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+[   48969ms] [WARNING] [JavaScript Warning: "This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features!" {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   49841ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   49850ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   49850ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   49856ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   50854ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   50863ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   50865ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   50875ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   51834ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-logo.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   51836ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   51836ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   51836ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz-small.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   51836ms] [WARNING] [JavaScript Warning: "The resource at “https://img-9gag-fun.9cache.com/photo/a9y9DKj_700bwp.webp” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   51865ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   51874ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   51877ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   51891ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   62268ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   62284ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   62286ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   62311ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   62312ms] [WARNING] [JavaScript Warning: "“error-report.com” has been classified as a bounce tracker. If it does not receive user activation within the next 3,600 seconds it will have its state purged."] @ :0
+[   72341ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.confiant-integrations.net/0RqV_ZzmEuOOPHd_QOGt_iuFLLE/gpt_and_prebid/config.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72342ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://metrics.rapidedge.io/gamera.js?ltv=1&audience=1&tpcs=1&partner=9gag&wait=1”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72342ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://www.googletagmanager.com/gtag/js?id=G-YY84CFQCF5”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 452}] @ https://9gag.com/gag/a9y9DKj#comment:452
+[   72342ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://hb-9gag.opentrade.ascendeum.com/asc_prebid.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72342ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://cdn.viously.com/js/sdk/boot.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72342ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://ats-wrapper.privacymanager.io/ats-modules/3fe2ce24-2cac-487a-900a-0c8337a257fe/ats.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72361ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://btloader.com/tag?o=5741299960381440&upapi=true”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72438ms] [ERROR] [vuex] unknown getter: app/SHOW_OPEN_APP_SHEET @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:1
+[   72513ms] [LOG] Restored saved stream heights: 0 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   72526ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_1 data-ay-manager-id=jsid-ad-container-sidebar_1 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   72527ms] [LOG] AdPlugin.displayAd id=jsid-ad-container-sidebar_2 data-ay-manager-id=jsid-ad-container-sidebar_2 @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   72663ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72665ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://sdk.privacy-center.org/b72f9f85-6689-4889-b73a-75a02a5b3f3d/loader.js?target_type=notice&target=bfXVJxt6”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72666ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://srvgl.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72667ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://securepubads.g.doubleclick.net/tag/js/gpt.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 435}] @ https://9gag.com/gag/a9y9DKj#comment:435
+[   72667ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   72667ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   72673ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   72674ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://comment-cdn.9gag.com/v2/cacheable/comment-list.json?appId=a_dd8f2b7d304a10edaf6f29517ea0ca4100a43d1b&count=10&type=hot&viewMode=list&postKey=a9y9DKj&url=http%3A%2F%2F9gag.com%2Fgag%2Fa9y9DKj&origin=https%3A%2F%2F9gag.com. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   72682ms] [WARNING] [JavaScript Warning: "This page is in Quirks Mode. Page layout may be impacted. For Standards Mode use “<!DOCTYPE html>”." {file: "about:blank" line: 0}] @ about:blank:0
+[   72761ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72775ms] [WARNING] [JavaScript Warning: "All candidate resources failed to load. Media load paused." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   72775ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   72831ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72831ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://static.cloudflareinsights.com/beacon.min.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72838ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72839ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   72842ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://recommend.9gag.com/interact/event/?ip=1&_=1785420131472. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   72979ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.html-load.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   73371ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   73371ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://telemetry.bydata.com/topics/events. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   73388ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dzvgv213q3sp.cloudfront.net/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   74195ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   75807ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://fb.content-loader.com/core.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   75817ms] [ERROR] [JavaScript Error: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://error-report.com/report?type=loader_light&url=aHR0cHM6Ly85Z2FnLmNvbS9nYWcvYTl5OURLaiNjb21tZW50&error=RmFpbGVkIHRvIGxvYWQgd2Vic2l0ZSBwcm9wZXJseSBzaW5jZSBodG1sLWxvYWQuY29tIGlzIGJsb2NrZWQuIFBsZWFzZSBhbGxvdyBodG1sLWxvYWQuY29t&request_id=xe5iqyddd2. (Reason: CORS request did not succeed). Status code: (null)."] @ :0
+[   79324ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   79341ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dclsrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   79341ms] TypeError: can't access property "comments", t is null
+    at 30070/fetchComments/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33667)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at fetchComments (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:33313)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 30070/toggleListView/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34909)
+    at r (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20900)
+    at promise callback*l (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21065)
+    at 30070/q/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:21076)
+    at q (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:20843)
+    at toggleListView (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:34505)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at setType (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:1:31465)
+    at 84157/S/I/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:259844)
+    at 84157/I/</n[r] (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:261967)
+    at init (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69272)
+    at async*created (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/comment.js:1:69391)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at a (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25128)
+    at Ae (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:35820)
+    at 66252/pn/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:64817)
+    at pn (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:65190)
+    at 66252/ot/V/c< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47468)
+    at 66252/ot/V/< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47474)
+    at V (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:47493)
+    at Z (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:45451)
+    at x (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:42395)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:48490)
+    at run (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:16263)
+    at i (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25052)
+    at T (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:26529)
+    at promise callback*k (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25983)
+    at _ (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:25949)
+    at 66252/ot/N/e.effect< (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:49164)
+    at O (https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/vendor.js:2:17585)
+[   79355ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://gresrv.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   79365ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://dtasrvr.com/p.js?uid=f640db9240bffd4e70f7359e&ref=https%3A%2F%2F9gag.com%2Fgag%2Fa9y9dkj%23comment”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   79430ms] [ERROR] JSHandle@object @ https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/js/gag.js:0
+[   79433ms] TypeError: can't access property "innerHTML", m.body is null
+    at n/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2533)
+    at r/a< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2408)
+    at b/r< (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2606)
+    at setInterval handler*b (https://9gag.com/gag/a9y9DKj#comment line 158 > injectedScript line 1 > Function:3:2631)
+    at r (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2433)
+    at n (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:2501)
+    at async*anonymous/< (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4639)
+    at anonymous (https://9gag.com/gag/a9y9DKj#comment line 1 > Function:3:4661)
+    at onerror/</< (https://9gag.com/gag/a9y9DKj#comment:1:237)
+    at onerror/< (https://9gag.com/gag/a9y9DKj#comment:1:254)
+    at onerror (https://9gag.com/gag/a9y9DKj#comment:1:318)
+[   79434ms] AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+
+[   79451ms] [WARNING] [JavaScript Warning: "This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features!" {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   80326ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   80336ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   80339ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://static.cloudflareinsights.com/beacon.min.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   80340ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   80347ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   81340ms] [INFO] [JavaScript Error: "Referrer Policy: Ignoring the less restricted referrer policy “no-referrer-when-downgrade” for the cross-site request: https://tag.wknd.ai/8446/i.js" {file: "https://tag.wknd.ai/8446/i.js" line: 0}] @ https://tag.wknd.ai/8446/i.js:0
+[   81350ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/fbevents.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   81358ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://tag.wknd.ai/8446/i.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   81358ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://static.cloudflareinsights.com/beacon.min.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   81366ms] [WARNING] [JavaScript Warning: "Loading failed for the <script> with source “https://connect.facebook.net/en_US/sdk.js”." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 1}] @ https://9gag.com/gag/a9y9DKj#comment:1
+[   82253ms] [WARNING] [JavaScript Warning: "The resource at “https://9gag.com/s/fab0aa49/12a9c476c147e5271c9c5a7e739db87e0771799c/static/dist/es8/web/img/sprite-potz.png” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0
+[   82253ms] [WARNING] [JavaScript Warning: "The resource at “https://img-9gag-fun.9cache.com/photo/a9y9DKj_700bwp.webp” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly." {file: "https://9gag.com/gag/a9y9DKj#comment" line: 0}] @ https://9gag.com/gag/a9y9DKj#comment:0

@@ -1,0 +1,61 @@
+schemaVersion: "1"
+kind: mixin
+name: playwright-cli
+displayName: Playwright CLI
+description: "Playwright cli and skills for agents to use instead of MCP"
+network:
+  allowedDomains:
+    - registry.npmjs.org
+    - playwright.azureedge.net
+    - "*.githubusercontent.com"
+    - cdn.playwright.dev
+    - playwright.download.prss.microsoft.com
+    # On amd64, Playwright's Chromium is a "Chrome for Testing" build:
+    # cdn.playwright.dev only issues a 302 redirect and the actual
+    # chrome-linux64.zip is served from Google's Chrome-for-Testing bucket
+    # on storage.googleapis.com. Without this, `playwright install chromium`
+    # fails with a proxy 403 (Blocked by network policy) under deny-all.
+    # (arm64 builds come from prss.microsoft.com instead, hence the split.)
+    - "storage.googleapis.com:443"
+    # `playwright install --with-deps` apt-installs Chromium's system
+    # libraries. `apt-get update` refreshes every configured source, so all
+    # template sources must be reachable: Ubuntu hosts amd64 packages on
+    # archive/security and arm64 packages on ports.ubuntu.com, and the
+    # *-docker templates pre-add Docker's apt repo.
+    - "archive.ubuntu.com:80"
+    - "security.ubuntu.com:80"
+    - "ports.ubuntu.com:80"
+    - "download.docker.com:443"
+    - 9gag.com
+    - "*.9gag.com"
+    - "*.9cache.com"
+
+environment:
+  variables:
+    # Install hooks run as root but the agent runs as uid 1000, so the default
+    # per-user ~/.cache/ms-playwright would leave the browsers in root's home
+    # where the agent can't see them. A fixed system path shared by every user
+    # (the same trick the official Playwright Docker image uses) fixes that.
+    PLAYWRIGHT_BROWSERS_PATH: /opt/ms-playwright
+    # Lets `require('@playwright/test')` resolve from the global npm install
+    # in zero-config runs (a bare .spec.js with no package.json). Node only
+    # searches node_modules up the file's directory tree; NODE_PATH adds the
+    # global root as a fallback. Projects with their own node_modules are
+    # unaffected — the local copy always wins.
+    NODE_PATH: /usr/local/share/npm-global/lib/node_modules
+
+commands:
+  install:
+    # 1. Install @playwright/cli globally
+    - command: |
+        npm install -g @playwright/cli@latest
+        ln -sf "$(command -v playwright-cli)" /usr/local/bin/playwright-cli
+      user: "1000"
+
+    # 2. Download Chromium browser binaries
+    - command: "playwright-cli install-browser chromium"
+      user: "1000"
+
+    # 3. Install OS system dependencies required for headless rendering
+    - command: "npx playwright install-deps chromium"
+      user: "0" # Root required for apt-get installs

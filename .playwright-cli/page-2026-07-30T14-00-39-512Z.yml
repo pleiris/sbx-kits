@@ -1,0 +1,352 @@
+- generic [ref=e3]:
+  - banner [ref=e7]:
+    - generic [ref=e8]:
+      - link [ref=e9] [cursor=pointer]:
+        - /url: javascript:void(0);
+      - link "9GAG" [ref=e10] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e11]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - link "🔀 Shuffle" [ref=e14] [cursor=pointer]:
+              - /url: https://9gag.com/shuffle
+          - listitem [ref=e15]:
+            - link "📱 Get App" [ref=e16] [cursor=pointer]:
+              - /url: https://about.9gag.com/app
+          - listitem [ref=e17]:
+            - link "🏴‍☠️ Memeland" [ref=e18] [cursor=pointer]:
+              - /url: https://www.memeland.com/
+          - listitem [ref=e19]:
+            - link "🛒 Shop" [ref=e20] [cursor=pointer]:
+              - /url: https://shop.9gag.com/
+          - listitem [ref=e21]:
+            - link "💣NSFW" [ref=e22] [cursor=pointer]:
+              - /url: https://9gag.com/interest/girlnsfw
+          - listitem [ref=e23]:
+            - link "📍Local" [ref=e24] [cursor=pointer]:
+              - /url: https://9gag.com/local/
+      - generic [ref=e25]:
+        - link "Search" [ref=e27] [cursor=pointer]:
+          - /url: javascript:void(0);
+        - link "Sign Up/Log In" [ref=e29] [cursor=pointer]:
+          - /url: /signup
+        - generic [ref=e30]:
+          - link [ref=e32] [cursor=pointer]:
+            - /url: javascript:void(0)
+          - link [ref=e38] [cursor=pointer]:
+            - /url: /submit
+  - generic [ref=e42]:
+    - generic [ref=e43]:
+      - generic [ref=e45]:
+        - heading "New to 9GAG?" [level=2] [ref=e46]
+        - paragraph [ref=e47]: Sign up now to see more content!
+        - link "Sign up" [ref=e48] [cursor=pointer]:
+          - /url: /signup
+      - list [ref=e50]:
+        - listitem [ref=e51]:
+          - link "Home" [ref=e52] [cursor=pointer]:
+            - /url: /home
+        - listitem [ref=e58]:
+          - link "Top" [ref=e59] [cursor=pointer]:
+            - /url: /top
+        - listitem [ref=e65]:
+          - link "Trending" [ref=e66] [cursor=pointer]:
+            - /url: /trending
+        - listitem [ref=e72]:
+          - link "Fresh" [ref=e73] [cursor=pointer]:
+            - /url: /fresh
+        - listitem [ref=e79]:
+          - link "News" [ref=e80] [cursor=pointer]:
+            - /url: /news
+        - listitem [ref=e88]:
+          - link "Ask 9GAG" [ref=e89] [cursor=pointer]:
+            - /url: /forum
+      - generic [ref=e95]:
+        - generic [ref=e96]: Interests
+        - list [ref=e98]:
+          - listitem [ref=e99]:
+            - link "Old Meme" [ref=e100] [cursor=pointer]:
+              - /url: https://9gag.com/interest/oldmeme
+          - listitem [ref=e108]:
+            - link "Anime & Manga" [ref=e109] [cursor=pointer]:
+              - /url: https://9gag.com/interest/anime
+          - listitem [ref=e117]:
+            - link "Latest News" [ref=e118] [cursor=pointer]:
+              - /url: https://9gag.com/interest/news
+          - listitem [ref=e126]:
+            - link "Cosplay" [ref=e127] [cursor=pointer]:
+              - /url: https://9gag.com/interest/cosplay
+          - listitem [ref=e135]:
+            - link "Politics" [ref=e136] [cursor=pointer]:
+              - /url: https://9gag.com/interest/politics
+          - listitem [ref=e144]:
+            - link "Humor" [ref=e145] [cursor=pointer]:
+              - /url: https://9gag.com/interest/humor
+          - listitem [ref=e153]:
+            - link "Memes" [ref=e154] [cursor=pointer]:
+              - /url: https://9gag.com/interest/memes
+          - listitem [ref=e162]:
+            - link "Gaming" [ref=e163] [cursor=pointer]:
+              - /url: https://9gag.com/interest/games
+          - listitem [ref=e171]:
+            - link "WTF" [ref=e172] [cursor=pointer]:
+              - /url: https://9gag.com/interest/wtf
+          - listitem [ref=e180]:
+            - link "Relationship & Dating" [ref=e181] [cursor=pointer]:
+              - /url: https://9gag.com/interest/relationship
+          - listitem [ref=e189]:
+            - link "Music" [ref=e190] [cursor=pointer]:
+              - /url: https://9gag.com/interest/music
+          - listitem [ref=e198]:
+            - link "Motor Vehicles" [ref=e199] [cursor=pointer]:
+              - /url: https://9gag.com/interest/motorvehicles
+          - listitem [ref=e207]:
+            - link "Animals & Pets" [ref=e208] [cursor=pointer]:
+              - /url: https://9gag.com/interest/animals
+          - listitem [ref=e216]:
+            - link "Science & Tech" [ref=e217] [cursor=pointer]:
+              - /url: https://9gag.com/interest/science
+          - listitem [ref=e225]:
+            - link "Comic" [ref=e226] [cursor=pointer]:
+              - /url: https://9gag.com/interest/comic
+          - listitem [ref=e234]:
+            - link "Wholesome" [ref=e235] [cursor=pointer]:
+              - /url: https://9gag.com/interest/wholesome
+          - listitem [ref=e243]:
+            - link "Sports" [ref=e244] [cursor=pointer]:
+              - /url: https://9gag.com/interest/sports
+          - listitem [ref=e252]:
+            - link "Movies & TV" [ref=e253] [cursor=pointer]:
+              - /url: https://9gag.com/interest/movies
+          - listitem [ref=e261]:
+            - link "Cat" [ref=e262] [cursor=pointer]:
+              - /url: https://9gag.com/interest/cats
+          - listitem [ref=e270]:
+            - link "Food & Drinks" [ref=e271] [cursor=pointer]:
+              - /url: https://9gag.com/interest/food
+          - listitem [ref=e279]:
+            - link "Lifestyle" [ref=e280] [cursor=pointer]:
+              - /url: https://9gag.com/interest/lifestyle
+          - listitem [ref=e288]:
+            - link "Superhero" [ref=e289] [cursor=pointer]:
+              - /url: https://9gag.com/interest/superhero
+          - listitem [ref=e297]:
+            - link "Crypto" [ref=e298] [cursor=pointer]:
+              - /url: https://9gag.com/interest/crypto
+          - listitem [ref=e306]:
+            - link "Random" [ref=e307] [cursor=pointer]:
+              - /url: https://9gag.com/interest/random
+          - listitem [ref=e315]:
+            - link "Woah" [ref=e316] [cursor=pointer]:
+              - /url: https://9gag.com/interest/woah
+    - generic [ref=e325]:
+      - generic [ref=e326]:
+        - generic [ref=e330]:
+          - heading "Home" [level=2] [ref=e332] [cursor=pointer]
+          - heading "Top" [level=2] [ref=e334] [cursor=pointer]
+          - heading "Trending" [level=2] [ref=e336] [cursor=pointer]
+          - heading "Fresh" [level=2] [ref=e338] [cursor=pointer]
+          - heading "News" [level=2] [ref=e340] [cursor=pointer]
+          - heading "Ask 9GAG" [level=2] [ref=e342] [cursor=pointer]
+        - generic [ref=e343]:
+          - link "world cup" [ref=e344] [cursor=pointer]:
+            - /url: /tag/world-cup?ref=featured-tag
+          - link "usa" [ref=e345] [cursor=pointer]:
+            - /url: /tag/usa?ref=featured-tag
+          - link "trump" [ref=e346] [cursor=pointer]:
+            - /url: /tag/trump?ref=featured-tag
+          - link "elon musk" [ref=e347] [cursor=pointer]:
+            - /url: /tag/elon-musk?ref=featured-tag
+          - link "politics" [ref=e348] [cursor=pointer]:
+            - /url: /tag/politics?ref=featured-tag
+          - link "latest news" [ref=e349] [cursor=pointer]:
+            - /url: /tag/latest-news?ref=featured-tag
+        - generic [ref=e350]:
+          - text: Want fewer political content?
+          - generic [ref=e351] [cursor=pointer]: Block tags
+      - generic [ref=e363]:
+        - article [ref=e364]:
+          - generic [ref=e365]:
+            - generic [ref=e366]:
+              - generic [ref=e367]:
+                - generic [ref=e369]:
+                  - link [ref=e370] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/woah
+                    - img "Woah" [ref=e371]
+                  - link "Woah" [ref=e372] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/woah
+                  - generic [ref=e373]: 23h
+                - generic [ref=e374]:
+                  - generic [ref=e375]: Cheered by
+                  - generic [ref=e376]:
+                    - link [ref=e377] [cursor=pointer]:
+                      - /url: https://9gag.com/u/s4w5z4ox
+                    - link [ref=e379] [cursor=pointer]:
+                      - /url: https://9gag.com/u/wildmanjordan
+                    - link [ref=e381] [cursor=pointer]:
+                      - /url: https://9gag.com/u/aleksischmidt
+                  - generic [ref=e383]: "+16"
+              - link [ref=e386] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - link [ref=e393] [cursor=pointer]:
+              - /url: /gag/a9y9DKj
+              - heading "Save and never try it" [level=2] [ref=e394]
+          - link "0:29" [ref=e397] [cursor=pointer]:
+            - /url: /gag/a9y9DKj
+            - paragraph [ref=e401]: 0:29
+          - generic [ref=e402]:
+            - link "awesome" [ref=e403] [cursor=pointer]:
+              - /url: /tag/awesome?ref=post-tag
+            - link "origami" [ref=e404] [cursor=pointer]:
+              - /url: /tag/origami?ref=post-tag
+            - link "paper" [ref=e405] [cursor=pointer]:
+              - /url: /tag/paper?ref=post-tag
+            - link "plane" [ref=e406] [cursor=pointer]:
+              - /url: /tag/plane?ref=post-tag
+            - link "tutorial" [ref=e407] [cursor=pointer]:
+              - /url: /tag/tutorial?ref=post-tag
+          - generic [ref=e408]:
+            - list [ref=e409]:
+              - listitem [ref=e410]:
+                - link [ref=e411] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=e415]: 7.4K
+                - link [ref=e416] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - list [ref=e420]:
+              - listitem [ref=e421]:
+                - link "116 Comments" [ref=e422] [cursor=pointer]:
+                  - /url: /gag/a9y9DKj#comment
+                  - generic [ref=e426]: "116"
+                  - generic [ref=e427]: Comments
+            - list [ref=e428]:
+              - listitem [ref=e429] [cursor=pointer]:
+                - link [ref=e430]:
+                  - /url: javascript:void(0);
+                - generic [ref=e434]: Save
+            - generic [ref=e436]:
+              - link [ref=e437] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link [ref=e441] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=e445]: Share
+        - article [ref=e452]:
+          - generic [ref=e453]:
+            - generic [ref=e454]:
+              - generic [ref=e455]:
+                - generic [ref=e457]:
+                  - link [ref=e458] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/news
+                    - img "Latest News" [ref=e459]
+                  - link "Latest News" [ref=e460] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/news
+                  - generic [ref=e461]: 23h
+                - generic [ref=e462]:
+                  - generic [ref=e463]: Cheered by
+                  - generic [ref=e464]:
+                    - link [ref=e465] [cursor=pointer]:
+                      - /url: https://9gag.com/u/biffmalibu
+                    - link [ref=e467] [cursor=pointer]:
+                      - /url: https://9gag.com/u/picoman
+                    - link [ref=e469] [cursor=pointer]:
+                      - /url: https://9gag.com/u/isaacisenshiem
+              - link [ref=e473] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - link [ref=e480] [cursor=pointer]:
+              - /url: /gag/aD2EQgK
+              - heading "“Youuu moth****er you, f*** you motherf****r!”" [level=2] [ref=e481]
+          - link "1:40 Play" [ref=e484] [cursor=pointer]:
+            - /url: /gag/aD2EQgK
+            - generic [ref=e485]:
+              - paragraph [ref=e488]: 1:40
+              - generic: Play
+          - generic [ref=e490]:
+            - link "Do" [ref=e491] [cursor=pointer]:
+              - /url: /tag/do?ref=post-tag
+            - link "Not" [ref=e492] [cursor=pointer]:
+              - /url: /tag/not?ref=post-tag
+            - link "Redeem" [ref=e493] [cursor=pointer]:
+              - /url: /tag/redeem?ref=post-tag
+          - generic [ref=e494]:
+            - list [ref=e495]:
+              - listitem [ref=e496]:
+                - link [ref=e497] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=e501]: 6.6K
+                - link [ref=e502] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - list [ref=e506]:
+              - listitem [ref=e507]:
+                - link "990 Comments" [ref=e508] [cursor=pointer]:
+                  - /url: /gag/aD2EQgK#comment
+                  - generic [ref=e512]: "990"
+                  - generic [ref=e513]: Comments
+            - list [ref=e514]:
+              - listitem [ref=e515] [cursor=pointer]:
+                - link [ref=e516]:
+                  - /url: javascript:void(0);
+                - generic [ref=e520]: Save
+            - generic [ref=e522]:
+              - link [ref=e523] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link [ref=e527] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=e531]: Share
+        - article [ref=e538]:
+          - generic [ref=e539]:
+            - generic [ref=e540]:
+              - generic [ref=e541]:
+                - generic [ref=e543]:
+                  - link [ref=e544] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/humor
+                    - img "Humor" [ref=e545]
+                  - link "Humor" [ref=e546] [cursor=pointer]:
+                    - /url: https://9gag.com/interest/humor
+                  - generic [ref=e547]: 1d
+                - generic [ref=e548]:
+                  - generic [ref=e549]: Cheered by
+                  - generic [ref=e550]:
+                    - link [ref=e551] [cursor=pointer]:
+                      - /url: https://9gag.com/u/jakob505
+                    - link [ref=e553] [cursor=pointer]:
+                      - /url: https://9gag.com/u/ferencjuhasz84
+                    - link [ref=e555] [cursor=pointer]:
+                      - /url: https://9gag.com/u/nirmata
+              - button "Create MEME" [ref=e557] [cursor=pointer]
+              - link [ref=e565] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - link [ref=e572] [cursor=pointer]:
+              - /url: /gag/axyXm2b
+              - heading "Fair emergency" [level=2] [ref=e573]
+          - link [ref=e577] [cursor=pointer]:
+            - /url: /gag/axyXm2b
+            - img "The post is a meme featuring an image of a man standing in front of an attractive woman in a suggestive outfit. The caption humorously implies that the 'buddy' who borrowed money for an 'emergency' actually spent it on a woman or a night out, rather than a genuine emergency, highlighting a common trope about irresponsible friends." [ref=e580]
+          - link "funny" [ref=e582] [cursor=pointer]:
+            - /url: /tag/funny?ref=post-tag
+          - generic [ref=e583]:
+            - list [ref=e584]:
+              - listitem [ref=e585]:
+                - link [ref=e586] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                - generic [ref=e590]: 6.8K
+                - link [ref=e591] [cursor=pointer]:
+                  - /url: javascript:void(0);
+            - list [ref=e595]:
+              - listitem [ref=e596]:
+                - link "490 Comments" [ref=e597] [cursor=pointer]:
+                  - /url: /gag/axyXm2b#comment
+                  - generic [ref=e601]: "490"
+                  - generic [ref=e602]: Comments
+            - list [ref=e603]:
+              - listitem [ref=e604] [cursor=pointer]:
+                - link [ref=e605]:
+                  - /url: javascript:void(0);
+                - generic [ref=e609]: Save
+            - generic [ref=e611]:
+              - link [ref=e612] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link [ref=e616] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - generic [ref=e620]: Share
+  - link "Back to top" [ref=e642] [cursor=pointer]:
+    - /url: "javascript: void(0);"
