@@ -1,0 +1,3 @@
+The install command clones a private repository through sandbox-managed GitHub
+credentials. The standard TCK cannot inject those credentials, so installation
+is exercised by the real-sandbox E2E test instead.
